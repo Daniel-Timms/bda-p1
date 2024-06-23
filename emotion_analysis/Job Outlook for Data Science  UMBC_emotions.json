@@ -1,0 +1,15 @@
+{
+    "Detected Emotions and Frequencies": {
+        "fear": 0.0,
+        "anger": 0.0,
+        "anticip": 0.0,
+        "trust": 0.21875,
+        "surprise": 0.09375,
+        "positive": 0.4375,
+        "negative": 0.0625,
+        "sadness": 0.03125,
+        "disgust": 0.0,
+        "joy": 0.0625,
+        "anticipation": 0.09375
+    }
+}
